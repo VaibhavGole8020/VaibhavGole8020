@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Golekar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Homelabber, Maker from India</h3>
 
 - 🌱 I’m currently learning **android development**
 
